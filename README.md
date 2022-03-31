@@ -1,4 +1,3 @@
-## 2- Creacion de la estructura del proyecto
+## 3- Rutas y LazyLoad
 
-
-Se crean los componentes, servicios , etc para trabajar en este proyecto de graficas
+Se crean las rutas para hacer la carga peresoza 
