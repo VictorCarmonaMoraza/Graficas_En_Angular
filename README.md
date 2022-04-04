@@ -1,3 +1,3 @@
-## 6 - Personalizando la gráfica
+## 7 - Componente personalizado para mostrar gráficos
 
-Hemos cambiado color a las barras de la grafica y hemos introducido una tercera barra
+Hemos reutilizado el componente grafica para implemnetar en el componente barras-doble el componente barras
